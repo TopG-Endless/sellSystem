@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5ppkjKx4R7M=",
+  "dgSpecHash": "ydoB+f+r+30=",
   "success": true,
   "projectFilePath": "/Users/yirkyfernandezlizardo/Documents/Alterna Academy/Modulo 8/sellSystem/sellSystem.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,8 @@
     "/Users/yirkyfernandezlizardo/.nuget/packages/k4os.compression.lz4.streams/1.3.8/k4os.compression.lz4.streams.1.3.8.nupkg.sha512",
     "/Users/yirkyfernandezlizardo/.nuget/packages/k4os.hash.xxhash/1.0.8/k4os.hash.xxhash.1.0.8.nupkg.sha512",
     "/Users/yirkyfernandezlizardo/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.10/microsoft.aspnetcore.authentication.jwtbearer.8.0.10.nupkg.sha512",
+    "/Users/yirkyfernandezlizardo/.nuget/packages/microsoft.aspnetcore.mvc.versioning/5.1.0/microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "/Users/yirkyfernandezlizardo/.nuget/packages/microsoft.aspnetcore.mvc.versioning.apiexplorer/5.1.0/microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",
     "/Users/yirkyfernandezlizardo/.nuget/packages/microsoft.aspnetcore.openapi/8.0.10/microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",
     "/Users/yirkyfernandezlizardo/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/yirkyfernandezlizardo/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

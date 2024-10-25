@@ -135,3 +135,6 @@
 /Users/yirkyfernandezlizardo/Documents/Alterna Academy/Modulo 8/sellSystem/obj/Debug/net8.0/sellSystem.pdb
 /Users/yirkyfernandezlizardo/Documents/Alterna Academy/Modulo 8/sellSystem/obj/Debug/net8.0/sellSystem.genruntimeconfig.cache
 /Users/yirkyfernandezlizardo/Documents/Alterna Academy/Modulo 8/sellSystem/obj/Debug/net8.0/ref/sellSystem.dll
+/Users/yirkyfernandezlizardo/Documents/Alterna Academy/Modulo 8/sellSystem/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+/Users/yirkyfernandezlizardo/Documents/Alterna Academy/Modulo 8/sellSystem/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+/Users/yirkyfernandezlizardo/Documents/Alterna Academy/Modulo 8/sellSystem/obj/Debug/net8.0/sellSystem.sourcelink.json
